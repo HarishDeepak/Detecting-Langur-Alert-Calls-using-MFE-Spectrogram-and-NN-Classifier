@@ -2,10 +2,6 @@
 
 Real-time bioacoustic classification system for detecting langur monkey alert calls from audio using Mel Filterbank Energy (MFE) spectrogram features and a 1D Convolutional Neural Network deployed on a low-power edge device via TensorFlow Lite.
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-000000?style=for-the-badge)](https://edgeimpulse.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishdeepak/)
-
 ---
 
 ## Problem
