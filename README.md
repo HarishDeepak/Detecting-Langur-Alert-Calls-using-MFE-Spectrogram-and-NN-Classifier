@@ -109,6 +109,19 @@ Langur alert calls indicate predator presence or human encroachment. Automated d
 
 ---
 
+## Dataset
+
+Binary classification: langur alert call vs. background forest sound.
+
+| Split | Source |
+|---|---|
+| Positive class (alert calls) | [Langur Alert Calls](https://www.kaggle.com/datasets/abhisheksebastian/langur-alert-calls) — Kaggle |
+| Negative class (background) | [Forest Ambience](https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing) — Kaggle (Z by HP Unlocked Challenge 3) |
+
+Audio files processed through Edge Impulse's MFE spectrogram extraction pipeline before training.
+
+---
+
 ## Tech Stack
 
 - **Framework**: TensorFlow 2.x / Keras, TensorFlow Lite
